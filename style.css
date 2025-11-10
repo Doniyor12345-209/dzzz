@@ -1,0 +1,130 @@
+body{
+    background-color: #C4B5A5;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    margin: 0 auto;
+}
+
+
+
+
+.nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style: none;
+    gap: 88px;
+}
+
+.nav{
+    padding-top: 54px;
+    padding-left: 119px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btndiv{
+    padding-right: 42px;
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+#btn1{
+    background-color: #FB982F;
+    width: 131px;
+    height: 41px;
+    text-align: center;
+    align-content: center;
+    color:  #000000;;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    font-family: Poppins;
+    border-style: none;
+    border-radius: 6px;
+
+}
+
+.btn2{
+ width: 131px;
+    height: 41px;
+    text-align: center;
+    align-content: center;
+    color: aliceblue;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 13px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    font-family: Poppins;
+    border-style: none;
+    border-radius: 6px;
+    background-color: #000000;
+}
+
+#btn3{
+    width: 195px;
+    height: 53px;
+    border-radius: 40px;
+    background-color: #FB982F;
+    color: #000000;
+    text-align: center;
+    align-content: center;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    font-family: Poppins;
+    border-style: none;
+    margin-top: 89px;
+
+
+}
+
+
+#h1{
+    width: 420px;
+    color: #000000;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 155%;
+    letter-spacing: 0%;
+    font-family: Poppins;
+
+}
+
+#p{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 200%;
+    letter-spacing: 0%;
+    font-family: Poppins;
+     color: #000000;
+     width: 426px;
+     padding-top: 77px;
+
+
+}
+
+.section{
+    align-items: center;
+    display: flex;
+    padding-top: 83px;
+    padding-left: 119px;
+}
+
+.section img{
+    width: 739px;
+    height: 432px;
+    padding-left: 157px;
+}
